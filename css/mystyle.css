@@ -763,3 +763,178 @@ main article .slider-main .slider .slider-item .slide:nth-child(3) button {
   margin-bottom: 45px;
   color: #ffffff;
 }
+
+main article .slider-tab-main {
+  max-width: 1330px;
+  width: 100%;
+  min-height: 738px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+main article .slider-tab-main .slider-tab-head {
+  width: 100%;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+main article .slider-tab-main .slider-tab-head p {
+  font-size: 26px;
+  font-weight: 600;
+}
+
+main article .slider-tab-main .slider-tab {
+  max-width: 831px;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+}
+
+main article .slider-tab-main .slider-tab a {
+  font-size: 19px;
+  font-weight: 600;
+  color: #000000;
+}
+
+main article .slider-tab-main button {
+  width: 176px;
+  height: 60px;
+  border: 2px solid #d9c8aa;
+  border-radius: 40px;
+  background-color: transparent;
+  font-size: 16px;
+  color: #000000;
+}
+
+main article .slider-tab-main .slider-product {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+  max-width: 1330px;
+}
+
+main article .slider-tab-main .slider-product .slider-prod-main {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+  width: 100%;
+  max-width: 1200px;
+  min-height: 389px;
+}
+
+main article .slider-tab-main .slider-product .slider-prod-main .slide .slide-img {
+  background-image: url(../img/featured/feat-prod1.png);
+  background-size: cover;
+  width: 272px;
+  min-height: 389px;
+}
+
+main article .slider-tab-main .slider-product .slider-prod-main .slide p:nth-child(2) {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 31px 0 11px 0;
+}
+
+main article .slider-tab-main .slider-product .slider-prod-main .slide p:nth-child(3) {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+main article .slider-tab-main .slider-product .slider-prod-main .slide p:nth-child(4) {
+  font-size: 16px;
+}
+
+main article .slider-tab-main .slider-product .slider-prod-main .slide p:nth-child(4) mark {
+  font-weight: bold;
+  background: none;
+}
+
+main article .slider-tab-main .slider-product .slider-prod-main .slide2 .slide-img2 {
+  background-image: url(../img/featured/fead-prod2.png);
+  background-size: cover;
+  width: 272px;
+  min-height: 389px;
+}
+
+main article .slider-tab-main .slider-product .slider-prod-main .slide2 p:nth-child(2) {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 31px 0 11px 0;
+}
+
+main article .slider-tab-main .slider-product .slider-prod-main .slide2 p:nth-child(3) {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+main article .slider-tab-main .slider-product .slider-prod-main .slide2 p:nth-child(4) {
+  font-size: 16px;
+}
+
+main article .slider-tab-main .slider-product .slider-prod-main .slide2 p:nth-child(4) mark {
+  font-weight: bold;
+  background: none;
+}
+
+main article .slider-tab-main .slider-product .slider-prod-main .slide3 .slide-img3 {
+  background-image: url(../img/featured/fead-prod3.png);
+  background-size: cover;
+  width: 272px;
+  min-height: 389px;
+}
+
+main article .slider-tab-main .slider-product .slider-prod-main .slide3 p:nth-child(2) {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 31px 0 11px 0;
+}
+
+main article .slider-tab-main .slider-product .slider-prod-main .slide3 p:nth-child(3) {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+main article .slider-tab-main .slider-product .slider-prod-main .slide3 p:nth-child(4) {
+  font-size: 16px;
+}
+
+main article .slider-tab-main .slider-product .slider-prod-main .slide3 p:nth-child(4) mark {
+  font-weight: bold;
+  background: none;
+}
+
+main article .slider-tab-main .slider-product .slider-prod-main .slide4 .slide-img4 {
+  background-image: url(../img/featured/fead-prod4.png);
+  background-size: cover;
+  width: 272px;
+  min-height: 389px;
+}
+
+main article .slider-tab-main .slider-product .slider-prod-main .slide4 p:nth-child(2) {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 31px 0 11px 0;
+}
+
+main article .slider-tab-main .slider-product .slider-prod-main .slide4 p:nth-child(3) {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+main article .slider-tab-main .slider-product .slider-prod-main .slide4 p:nth-child(4) {
+  font-size: 16px;
+}
+
+main article .slider-tab-main .slider-product .slider-prod-main .slide4 p:nth-child(4) mark {
+  font-weight: bold;
+  background: none;
+}
