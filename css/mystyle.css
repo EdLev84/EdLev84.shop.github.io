@@ -810,6 +810,7 @@ main article .slider-tab-main button {
   background-color: transparent;
   font-size: 16px;
   color: #000000;
+  margin-bottom: 90px;
 }
 
 main article .slider-tab-main .slider-product {
@@ -937,4 +938,50 @@ main article .slider-tab-main .slider-product .slider-prod-main .slide4 p:nth-ch
 main article .slider-tab-main .slider-product .slider-prod-main .slide4 p:nth-child(4) mark {
   font-weight: bold;
   background: none;
+}
+
+main article .banner-two {
+  max-width: 1174px;
+  width: 100%;
+  height: 250px;
+  background-image: url(../img/banner-two.png);
+  background-size: cover;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+main article .banner-two .banner-info {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 500px;
+  float: right;
+  margin-right: 100px;
+  height: 250px;
+  align-items: center;
+  justify-content: flex-end;
+  padding-bottom: 45px;
+}
+
+main article .banner-two .banner-info p:nth-child(1) {
+  font-size: 26px;
+  font-weight: 600;
+}
+
+main article .banner-two .banner-info p:nth-child(2) {
+  font-size: 14px;
+  margin: 23px 0 36px 0;
+}
+
+main article .banner-two .banner-info button {
+  width: 205px;
+  height: 69px;
+  border-radius: 40px;
+  border: none;
+  font-size: 14px;
+  text-align: center;
+  background-color: #000000;
+  color: #ffffff;
 }
