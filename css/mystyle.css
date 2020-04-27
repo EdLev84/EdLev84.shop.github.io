@@ -985,3 +985,88 @@ main article .banner-two .banner-info button {
   background-color: #000000;
   color: #ffffff;
 }
+
+main article .slider-blog-main {
+  max-width: 1335px;
+  width: 100%;
+  min-height: 509px;
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+main article .slider-blog-main .blog-headline {
+  margin: 105px 0 61px 0;
+}
+
+main article .slider-blog-main .blog-headline p {
+  font-size: 26px;
+  font-weight: 600;
+}
+
+main article .slider-blog-main .slider-blog {
+  display: flex;
+  max-width: 1335px;
+  width: 100%;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+main article .slider-blog-main .slider-blog .slider-blog-item {
+  display: flex;
+  width: 100%;
+  max-width: 1170px;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+}
+
+main article .slider-blog-main .slider-blog .slider-blog-item .slide-item {
+  background-image: url(../img/blog/blog-img1.png);
+  background-size: cover;
+  width: 572px;
+  min-height: 381px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+main article .slider-blog-main .slider-blog .slider-blog-item .slide-item .slide-info {
+  max-width: 500px;
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  bottom: -40px;
+  padding: 24px 0 19px 0;
+}
+
+main article .slider-blog-main .slider-blog .slider-blog-item .slide-item .slide-info p:nth-of-type(1) {
+  margin-bottom: 15px;
+}
+
+main article .slider-blog-main .slider-blog .slider-blog-item .slide-item2 {
+  background-image: url(../img/blog/blog-img2.png);
+  background-size: cover;
+  width: 572px;
+  min-height: 381px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+main article .slider-blog-main .slider-blog .slider-blog-item .slide-item2 .slide-info {
+  max-width: 500px;
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  bottom: -40px;
+  padding: 24px 0 19px 0;
+}
+
+main article .slider-blog-main .slider-blog .slider-blog-item .slide-item2 .slide-info p:nth-of-type(1) {
+  margin-bottom: 15px;
+}
